@@ -1,5 +1,5 @@
 public class GitAssessment {
     public static void printContributor() {
-        System.debug('test commit');
+        System.debug('pratik test 2 commit');
     }
 }
