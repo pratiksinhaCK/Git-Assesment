@@ -1,7 +1,8 @@
 public class GitAssessment {
     public static void printContributor() {
         System.debug('pratik test 2 commit');
-        //Test Atiab Kalam
-        int a = -1220;
+        //Pratik Sinha Test
+        int a = 999;
+        int b = 5;
     }
 }
